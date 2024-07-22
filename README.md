@@ -1,3 +1,4 @@
+![logo](https://github.com/chir0911/chir0911/blob/main/CHirag%20Makvana_page-0001.jpg)
 <h1 align="center">Hi 👋, I'm Chirag Makvana</h1>
 <h3 align="center">A passionate Angular developer from India</h3>
 
